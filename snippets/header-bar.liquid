@@ -1,0 +1,36 @@
+<div class="header-bar">
+  <div class="wrapper medium-down--hide">
+    <div class="large--display-table">
+      
+      {% if settings.header_message != blank or settings.header_search_enable %}
+        <div class="header-bar__left large--display-table-cell">
+
+          {% comment %}
+            Add social links to header
+          {% endcomment %}
+
+          {% comment %}
+          <div class="header-bar__module header-bar__module--list">
+            {% include 'social-links' %}
+          </div>
+          {% endcomment %}
+
+          {% if settings.header_message != blank %}
+            <div class="header-bar__module header-bar__message">
+              {{ settings.header_message }}
+            </div>
+          {% endif %}
+
+        </div>
+      {% endif %}
+    </div>
+  </div>
+  <div class="wrapper large--hide">
+    <button type="button" class="mobile-nav-trigger" id="MobileNavTrigger">
+      <span class="icon icon-hamburger" aria-hidden="true"></span>
+      {{ 'layout.navigation.menu' | t }}
+    </button>
+   
+  </div>
+  {% include 'mobile-nav' %}
+</div>

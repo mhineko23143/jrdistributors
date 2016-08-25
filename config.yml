@@ -1,0 +1,13 @@
+--- 
+:api_key: 350260b0c1bcbbf875a624b81ea648c4
+:password: 78966e04ac4e3a3937e0aa08d6a16521
+:store: jr-distributors.myshopify.com
+:theme_id: 111790982
+:whitelist_files: 
+- layout/
+- assets/
+- config/
+- snippets/
+- templates/
+- locales/
+
