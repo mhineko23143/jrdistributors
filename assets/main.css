@@ -1,0 +1,272 @@
+header {
+  padding-bottom: 0 !important;
+}
+header .wrapper .grid--full .site-nav {
+  margin-top: 0 !important;
+}
+header .wrapper .grid--full .grid__item .griditems {
+  font-size: 12px;
+  margin-bottom: 0 !important	;
+}
+header .wrapper .grid--full .grid__item .griditems li {
+  display: inline-block;
+  width: 320px;
+  text-align: center;
+  vertical-align: middle;
+}
+header .wrapper .grid--full .grid__item .griditems li .rte {
+  height: auto;
+  color: black;
+}
+header .wrapper .grid--full .grid__item .griditems li .rte p {
+  margin: 0 !important;
+  padding-bottom: 5px;
+  color: #686868;
+  font-weight: bold;
+}
+header .wrapper .grid--full .grid__item .griditems li .rte .call {
+  color: #EC1A22;
+  font-size: 20px;
+  font-weight: bold;
+}
+header .wrapper .grid--full .grid__item .griditems li .griditem {
+  display: inline-block;
+  overflow: hidden;
+}
+header .wrapper .grid--full .grid__item .griditems li .griditem li {
+  display: inline-block;
+  width: 120px;
+}
+header .wrapper .grid--full .grid__item .griditems li .griditem li .header-bar__module.header-bar__search form button span {
+  color: #5B5B5B;
+}
+header .wrapper .grid--full .grid__item .griditems li .griditem li .header-bar__module.header-bar__search form button span.fallback-text {
+  color: #5B5B5B;
+  font-weight: bold;
+}
+header .wrapper .grid--full .grid__item .griditems li .griditem li .login a {
+  font-weight: bold;
+  color: #4B4B4B;
+}
+header .wrapper .grid--full .grid__item .griditems li .griditem li .login a i {
+  position: absolute;
+  margin-left: -40px;
+}
+header .wrapper .grid--full .grid__item .griditems .griditems1 {
+  border-right: 2px solid #E7E7E7;
+  border-left: 2px solid #E7E7E7;
+}
+header .wrapper .grid--full .grid__item .site-nav {
+  background-color: #C9BDA5;
+  margin-left: -30px;
+}
+header .wrapper .grid--full .grid__item .site-nav li a {
+  color: white;
+}
+header .wrapper .grid--full .grid__item .site-nav li a:hover {
+  color: red;
+}
+header .wrapper .grid--full.medium-down--hide .grid__item ul#AccessibleNav a.cart-page-link.mobile-cart-page-link {
+  padding-right: 20px;
+  padding: 9px;
+  color: white;
+  background-color: red;
+  margin-right: 35px;
+}
+main {
+  padding-bottom: 0 !important;
+}
+main .grid .grid__item {
+  padding: 0;
+}
+main .grid .grid__item .rte {
+  padding-top: 35px;
+  padding-bottom: 5px;
+  width: auto;
+}
+main .grid .grid__item .rte .pagecontent {
+  background: transparent;
+  background-image: url("back.jpg");
+  background-size: cover;
+  height: auto;
+  margin-top: -35px;
+  padding-top: 35px;
+  margin-bottom: -5px;
+  padding-bottom: 30px;
+  margin-right: -30px;
+  margin-left: -30px;
+}
+main .grid .grid__item .rte .pagecontent h4 {
+  color: #636363;
+  font-weight: bold;
+  border-bottom: 1px solid #EB4048;
+  width: 250px;
+  margin-right: auto;
+  margin-left: auto;
+  margin-bottom: 40px;
+}
+main .grid .grid__item .rte .pagecontent .person {
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+main .grid .grid__item .rte .pagecontent .person ul li {
+  display: inline-block;
+  vertical-align: middle;
+}
+main .grid .grid__item .rte .pagecontent .person ul li img {
+  border: 8px solid white;
+  border-radius: 200px;
+}
+main .grid .grid__item .rte .pagecontent .person ul li ul li {
+  display: block;
+}
+main .grid .grid__item .rte .pagecontent .person ul li ul li .name {
+  font-size: 18px;
+  font-weight: bold;
+  color: #E64753;
+  margin-bottom: none !important;
+}
+main .grid .grid__item .rte .pagecontent .person ul li ul li .owner {
+  color: black;
+}
+main .grid .grid__item .rte .pagecontent p {
+  color: black;
+  margin-bottom: 0 !important;
+  text-align: center;
+  color: #6F6F6F;
+}
+main .grid .grid__item .grid-uniform {
+  position: relative;
+  border-bottom: 5px solid black;
+  margin-top: 50px;
+  margin-left: 0 !important;
+  padding-bottom: 30px;
+  max-width: 100%;
+}
+main .grid .grid__item .grid-uniform .grid__item.small--one-half.medium--one-third.large--one-third {
+  overflow: hidden;
+}
+main .grid .grid__item .grid-uniform .grid__item.small--one-half.medium--one-third.large--one-third .grid-link.text-center {
+  padding: 30px;
+}
+main .grid .grid__item .grid-uniform .grid__item.small--one-half.medium--one-third.large--one-third .grid-link.text-center span.grid-link__image.grid-link__image--product {
+  border-bottom: 5px solid #EAEAEA;
+}
+main .grid .grid__item .grid-uniform .grid__item.small--one-half.medium--one-third.large--one-third .grid-link.text-center span.grid-link__image.grid-link__image--product span.grid-link__image-centered img {
+  height: 300px;
+}
+main .grid .grid__item .grid-uniform .grid__item.small--one-half.medium--one-third.large--one-third .grid-link.text-center p {
+  color: #E3734B;
+  text-align: left;
+}
+main .grid .grid__item .grid-uniform .grid__item.small--one-half.medium--one-third.large--one-third .grid-link.text-center .grid-link__meta {
+  color: #1A2128;
+  font-weight: bold;
+}
+main .grid .grid__item .grid-uniform .grid__item.small--one-half.medium--one-third.large--one-third .sca-qv-button-wrap {
+  display: block !important;
+  margin-bottom: 10px;
+}
+main .grid .grid__item .grid-uniform .grid__item.small--one-half.medium--one-third.large--one-third .sca-qv-button-wrap a {
+  font-size: 15px !important;
+  padding: 15px;
+  float: left;
+  margin-left: 30px !important;
+  background-color: #C9BCA3 !important;
+  width: 135px;
+  text-align: center;
+  max-width: 80%;
+}
+main .grid .grid__item .grid-uniform .grid__item.small--one-half.medium--one-third.large--one-third input#add-to-cart {
+  float: right;
+  font-size: 17px !important;
+  padding: 15px;
+  margin-right: 28px !important;
+  width: 135px;
+  max-width: 80%;
+}
+main .grid .grid__item .section-header.section-header--small {
+  width: 230px;
+  margin-left: auto;
+  margin-right: auto;
+  border-bottom: 1px solid red;
+  height: 50px;
+  vertical-align: bottom;
+}
+main .grid .grid__item .section-header.section-header--small h2 {
+  color: #626262;
+  text-align: center;
+  border-bottom: 1px solid red;
+  height: 50px;
+  vertical-align: bottom;
+}
+main .grid .grid__item .flexslider .flex-viewport ul li a img {
+  height: 400px;
+  width: 100%;
+}
+footer {
+  padding-top: 0 !important;
+  margin-top: -14px;
+}
+footer .wrapper .grid-uniform {
+  background-color: black;
+  color: white;
+  padding: 110px;
+  padding-bottom: 0px;
+}
+footer .wrapper .grid-uniform .grid__item.large--one-third.medium--one-third ul.inline-list.social-icons li {
+  display: block !important;
+}
+footer .wrapper .grid-uniform .grid__item.large--one-third.medium--one-third ul.inline-list.social-icons li a {
+  color: white;
+}
+footer .wrapper .grid-uniform .grid__item.large--one-third.medium--one-third ul.inline-list.social-icons li a span {
+  position: inherit !important	;
+}
+footer .wrapper .grid-uniform .grid__item.large--one-third.medium--one-third ul.inline-list.social-icons li a .icon {
+  font-size: larger !important;
+}
+footer .wrapper .grid-uniform .grid__item.large--one-third.medium--one-third .site-footer__links li a {
+  color: white !important;
+}
+footer .wrapper .grid-uniform .grid__item.large--one-third.medium--one-third .small--hide form input#subscribe {
+  float: right;
+  margin-top: -51px;
+  margin-right: -55px;
+}
+footer .wrapper .grid-uniform .grid__item.large--one-third.medium--one-third .small--hide form input#Email {
+  width: 180px;
+}
+footer .wrapper .grid-uniform .grid__item.large--one-quarter.medium--one-half.site-footer__links.article h4 a {
+  color: white;
+}
+footer .wrapper .grid .grid__item.text-center {
+  background-color: black;
+  margin-top: -31px;
+}
+footer .wrapper .grid .grid__item.text-center p {
+  color: white;
+  padding-top: 5px;
+}
+footer .wrapper .grid .grid__item.text-center p a {
+  color: white;
+}
+footer .wrapper .grid .grid__item.text-center ul.inline-list.payment-icons {
+  margin-top: 40px;
+  float: right;
+}
+footer .wrapper .grid .grid__item.text-centers {
+  background-color: #ED1B24;
+  text-align: center;
+  color: white;
+  margin-top: -15px;
+}
+footer .wrapper .grid .grid__item.text-centers p {
+  color: white;
+  padding-top: 5px;
+}
+footer .wrapper .grid .grid__item.text-centers p a {
+  color: white;
+}
